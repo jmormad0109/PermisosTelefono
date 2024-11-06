@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PermisosTelefono</string>
+
+
+    <string name="imagen_principal">Imagen Principal</string>
+    <string name="abrir_correo">Abrir Correo</string>
+    <string name="abrir_maps">Abrir Maps</string>
+    <string name="abrir_navegador">Abrir Navegador</string>
+    <string name="sos">SOS</string>
+</resources>
