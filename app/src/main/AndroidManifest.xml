@@ -30,6 +30,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".SecondActivity" />
+        <activity android:name=".DadosActivity" />
+        <activity android:name=".ChistesActivity"/>
     </application>
 
 </manifest>

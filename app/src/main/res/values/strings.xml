@@ -2,9 +2,39 @@
     <string name="app_name">PermisosTelefono</string>
 
 
+    <!-- ACTIVITY PRINCIPAL-->
+
     <string name="imagen_principal">Imagen Principal</string>
     <string name="abrir_correo">Abrir Correo</string>
     <string name="abrir_maps">Abrir Maps</string>
     <string name="abrir_navegador">Abrir Navegador</string>
     <string name="sos">SOS</string>
+
+    <!-- ACTIVITY DADOS -->
+
+    <string name="cubilete">Cubilete</string>
+    <string name="dado1">Dado 1</string>
+    <string name="dado2">Dado 2</string>
+    <string name="dado3">Dado 3</string>
+    <string name="dado4">Dado 4</string>
+    <string name="dado5">Dado 5</string>
+    <string name="dado6">Dado 6</string>
+
+
+    <!-- ACTIVITY CHISTES -->
+
+    <string name="descripcion">En esta pantalla hay un único botón en el centro, que sirve para contar un chiste</string>
+
+    <string name="chiste1">¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.</string>
+    <string name="chiste2">¿Por qué las focas miran siempre hacia arriba? ¡Porque ahí están los focos!</string>
+    <string name="chiste3">¿Cuál es el café más peligroso del mundo? El ex-preso.</string>
+    <string name="chiste4">¿Qué hace una abeja en el gimnasio? Zum-ba.</string>
+    <string name="chiste5">¿Qué le dice una impresora a otra? Esa hoja es tuya o es impresión mía.</string>
+    <string name="chiste6">¿Cómo se despiden los químicos? Ácido un placer.</string>
+    <string name="chiste7">¿Qué hace un perro con un taladro? Taladrando.</string>
+    <string name="chiste8">¿Por qué no puedes confiar en los ascensores? Porque siempre te están levantando.</string>
+    <string name="chiste9">¿Cómo se llama un pez que no tiene ojos? Pz.</string>
+    <string name="chiste10">¿Qué hace una cama volando? ¡Somiando!</string>
+
+
 </resources>

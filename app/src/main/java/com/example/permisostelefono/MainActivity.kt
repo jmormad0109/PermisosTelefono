@@ -33,6 +33,16 @@ class MainActivity : AppCompatActivity() {
         enlaceVista.btnNavegador.setOnClickListener {
             abrirNavegador()
         }
+
+        enlaceVista.btnDados.setOnClickListener {
+            val intento = Intent(this, DadosActivity::class.java)
+            startActivity(intento)
+        }
+
+        enlaceVista.btnChistes.setOnClickListener {
+            val intento = Intent(this, ChistesActivity::class.java)
+            startActivity(intento)
+        }
     }
 
     private fun abrirCorreo() {
