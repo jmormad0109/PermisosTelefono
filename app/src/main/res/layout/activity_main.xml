@@ -43,7 +43,7 @@
             android:layout_margin="4dp"
             app:backgroundTint="@null"
             android:background="@drawable/styles"
-            android:drawableTop="@drawable/mail"
+            android:drawableTop="@drawable/map"
             android:text="@string/abrir_maps" />
 
     </LinearLayout>
